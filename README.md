@@ -1,1 +1,1 @@
-This project is a comprehensive HR Data Analytics Dashboard created using Power BI. The dashboard is designed to provide HR professionals and decision-makers with valuable insights into their workforce, enabling data-driven decisions and improved HR management.
+This projects are HR Data Analytics Dashboard created using Power BI. 
